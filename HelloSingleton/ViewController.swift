@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var txtResult: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
     @IBAction func buttonAction(_ sender: Any) {
